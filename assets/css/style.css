@@ -59,7 +59,10 @@ header ul {
 
 header .logo {
     display: inline-block;
-    width: 140px;
+    width: 10px;
+    height: 10px;
+    position: center;
+    
 }
 
 .menu a {
